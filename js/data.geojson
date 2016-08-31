@@ -1,0 +1,21 @@
+var data = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                                                                  
+"features": [
+{ "type": "Feature", "properties": { "lat": "6.61195", "long": "0.47686", "alt": "147.29", "a1": "a2" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.61203", "long": "0.47248", "alt": "175", "a1": "a3" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.60854", "long": "0.45565", "alt": "199", "a1": "a4" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.60492", "long": "0.46823", "alt": "191", "a1": "a5" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.60658", "long": "0.47021", "alt": "188", "a1": "a6" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.61339", "long": "0.463", "alt": "190", "a1": "a7" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.60961", "long": "0.47195", "alt": "160", "a1": "a8" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.62152", "long": "0.47795", "alt": "173", "a1": "a9" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.62006", "long": "0.47425", "alt": "188", "a1": "a10" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.61125", "long": "0.46709", "alt": "177", "a1": "a11" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.60817", "long": "0.47358", "alt": "158", "a1": "a12" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.60369", "long": "0.4682", "alt": "202", "a1": "a13" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.59503", "long": "0.47157", "alt": "169", "a1": "a14" }, "geometry": null },
+{ "type": "Feature", "properties": { "lat": "6.60403", "long": "0.47119", "alt": "172.62", "a1": "a15" }, "geometry": null }
+]
+};
