@@ -11,7 +11,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 var myLayer = L.geoJson(data).addTo(map);
 
 //create map icon
-var blueIcon = new L.Icon({iconUrl: 'img/marker-icon.png'});
+/*var blueIcon = new L.Icon({iconUrl: 'img/marker-icon.png'});*/
 
 
 
