@@ -4,9 +4,6 @@ var data = {
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff8040",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "lat": 6.61195,
         "long": 0.47686,
         "alt": 147.29,
