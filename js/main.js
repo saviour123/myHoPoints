@@ -1,6 +1,6 @@
 
 //creating the map with div
-var map = L.map('map').setView([8.076,-0.967], 7);
+var map = L.map('map').setView([6.6069, 0.4749], 14);
 
 //add tiles
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
@@ -8,10 +8,5 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 //add geoJson
-var myLayer = L.geoJson(data).addTo(map);
-
-
-
-
-
-
+var myLayer = L.geoJson(data).bindLabel('saviour').addTo(map);
+L.bi
